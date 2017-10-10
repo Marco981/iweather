@@ -106,7 +106,7 @@ footer p {
 }
 
 @media only screen and (max-width: 460px) {
-	.display-2 {
+	.display-2, span.counter {
 		font-size: 3.5rem;
 	}
 }
