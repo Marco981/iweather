@@ -86,6 +86,10 @@ i {
 	border:1px solid #B2B2B2;
 }
 
+.carousel-control {
+	color: #b2b2b2;
+}
+
 hr {
 	border:1 px solid #b2b2b2;
 	width: 80%
